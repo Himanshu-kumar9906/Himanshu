@@ -1,4 +1,4 @@
 # Himanshu
 this is my first repository.
 <br>
-author-himanshu kumar
+Author-Himanshu kumar
